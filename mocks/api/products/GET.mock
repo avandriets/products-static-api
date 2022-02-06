@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Access-Control-Allow-Origin: *
+Content-Type: application/json; charset=utf-8
+
+[
+  {
+      "id": "product-1",
+      "name": "product-name-1"
+  }, 
+  {
+      "id": "product-2",
+      "name": "product-name-2"
+  },
+  {
+      "id": "product-3",
+      "name": "product-name-3"
+  }  
+]
