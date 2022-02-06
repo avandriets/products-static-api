@@ -1,0 +1,19 @@
+{
+  "name": "products-static-api",
+  "version": "1.0.0",
+  "description": "Mock api for testing porposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avandriets/products-static-api.git"
+  },
+  "author": "Alex Andriets",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avandriets/products-static-api/issues"
+  },
+  "homepage": "https://github.com/avandriets/products-static-api#readme"
+}
